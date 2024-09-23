@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @icosme
+- 👋 Hi, I’m @icosme ! I will update this README with more informations in the future.
