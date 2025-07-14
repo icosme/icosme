@@ -9,11 +9,12 @@
 
 ### 🪄 About Me
 
-- 🎓 Currently studying **Computer Science (BUT)**
+- 🎓 Currently studying **Computer Science (BUT 2)**
 - 🏫 Soon heading to **Beijing Institute of Technology (2025)** for an exchange!
+- 👩‍🎨 Love to paint on canvas with **acrylic and oil painting**
 - 💡 Interested in: `AI`, `Robotics`, `Medical Systems`, and life in **Japan**
-- 🔜 Planning to attend **engineering school** after my CS degree
-- 🗾 Goal: **Live and work in as a biomedical engineer** ✨
+- 🔜 Planning to attend an **engineering school** after my CS degree
+- 🗾 Goal: **Live and work in as a biomedical engineer** embracing my artist side ✨
 
 ---
 
