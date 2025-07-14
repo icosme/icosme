@@ -4,7 +4,7 @@
   🧋 CS Student | 💻 Future Biomedical Engineer | ✈️ Dreaming of traveling
   </p>
   <p align="center">
-  🚴 Daily biker • 🧠 Curious • 🌱 Always learning
+   Daily biker •  Curious •  Always learning
 </p>
 
 ---
@@ -23,6 +23,6 @@
 ### 💻 Tech Stack
 
 ```text
-Languages:   Python 🐍 ·SQL 🧠 · Java ☕ · IJVM ✨
-Tools:       Git & GitHub 🐙 · Linux 🐧 · VSCode 🎨 · 
+Languages:   Python  ·SQL  · Java  · IJVM 
+Tools:       Git & GitHub  · Linux  · VSCode  · 
 Currently:   Learning Japanese 🇯🇵 & getting into low-level systems 🛠️
