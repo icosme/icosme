@@ -1,5 +1,8 @@
 <h1 align="center">🌸 Hey there! I'm Ilona 🌸</h1>
 
+<h3 align="center"> Check my repositories to access my projects ↑ </h3>
+
+
 <p align="center">
   🧋 CS Student | 💻 Future Biomedical Engineer | ✈️ Dreaming of traveling
   </p>
