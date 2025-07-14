@@ -2,6 +2,8 @@
 
 <p align="center">
   🧋 CS Student | 💻 Future Biomedical Engineer | ✈️ Dreaming of traveling
+  </p>
+  <p align="center">
   🚴 Daily biker • 🧠 Curious • 🌱 Always learning
 </p>
 
