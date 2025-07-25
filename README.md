@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hey there! I'm Ilona 🌸</h1>
+<h1 align="center">🌸 Hi there! I'm Ilona 🌸</h1>
 
 <h3 align="center"> Check my repositories to access my projects ↑ </h3>
 
@@ -7,7 +7,7 @@
   🧋 CS Student | 💻 Future Biomedical Engineer | ✈️ Dreaming of traveling
   </p>
   <p align="center">
-   Daily biker •  Curious •  Always learning
+   Daily biker •  Curious about new things •  Always learning
 </p>
 
 ---
@@ -28,4 +28,4 @@
 ```text
 Languages:   Python  ·SQL  · Java  · IJVM 
 Tools:       Git & GitHub  · Linux  · VSCode  · 
-Currently:   Learning Japanese 🇯🇵 & getting into biomedical systems 
+Currently:   Learning Japanese & getting into biomedical systems basics
