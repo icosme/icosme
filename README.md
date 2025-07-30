@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  CS Student | Future Biomedical Engineer | ✈ Dreaming of traveling
+  CS Student | Future Biomedical Engineer | Dreaming of traveling
   </p>
   <p align="center">
    Daily biker •  Curious about new things •  Always learning
