@@ -9,28 +9,45 @@
 
 
 <p align="center">
-  CS Student | Future Biomedical Engineer | Dreaming of traveling <br>
-  <br>
-    Daily biker • Curious about new things • Always learning
+  CS Student&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;𐙚 ‧₊˚ ⋅&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;Future Biomedical Engineer&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;𐙚 ‧₊˚ ⋅&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;Dreaming of traveling 
   </p>
   
-
 ---
 
 <p align="center"> 
 <img src="https://media.tenor.com/F9ogau8JCBQAAAAi/mita-miside-oshinokodance-oshinokodance.gif" width="300" height="300" />
 </p>
 
-<h2> 🪄 About Me </h2>
+<div>
+  <img src="https://media.tenor.com/_goVoRQAOhMAAAAi/miside-mila.gif" width= "60" height="60" />
+  <font> About me </font>
+</div> 
+<br>
 
--  Currently studying **Computer Science (BUT 2)**
--  Soon heading to **Beijing Institute of Technology (2025)** for an exchange!
--  Love to paint on canvas with **acrylic and oil painting**
--  Interested in: `AI`, `Robotics`, `Medical Systems`, and life in **Japan**
--  Planning to attend an **engineering school** after my CS degree
--  Goal: **Live and work in as a biomedical engineer** embracing my artist side ✨
+```yaml
+name :  ilona
+age :  19
+school :  IUT Orléans
+  {
+    "soon heading to beijing institute of technology (2026) for an exchange";
+    "planning to attend an engineering school after my CS degree";
+  }
 
----
+interested in:
+  {
+    "AI";
+    "robotics";
+    "medical systems";
+    "life in japan";
+    "paint with acrylic and oil painting";
+  }
+
+goal:  live and work in as a biomedical engineer while embracing my artist side 
+```
+
+
+
+
 
 ### 💻 Tech Skills
 
