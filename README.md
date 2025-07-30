@@ -6,9 +6,7 @@
 
 <h3 align="center"> Check my repositories to access my projects ↑ </h3>
 
-<p align=left">
-  <img src="https://media.tenor.com/sYuJ6yY0ZZoAAAAi/madoka-magica-magical.gif" width="500" height="600" />
-</p>
+
 
 <p align="center">
   CS Student | Future Biomedical Engineer | Dreaming of traveling
