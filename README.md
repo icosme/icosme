@@ -6,10 +6,11 @@
 <div style="display: flex; align-items: center;">
   <img src="https://media.tenor.com/F9ogau8JCBQAAAAi/mita-miside-oshinokodance-oshinokodance.gif" width="150" height="150" style="margin-right: 20px;" />
   <p>
-    CS Student | Future Biomedical Engineer | Dreaming of traveling <br>
+    CS Student | Future Biomedical Engineer | Dreaming of traveling<br>
     Daily biker • Curious about new things • Always learning
   </p>
 </div>
+
 
 ---
 
