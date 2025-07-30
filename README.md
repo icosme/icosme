@@ -5,9 +5,7 @@
 
 </p>
 <!-- 0:FB3FEB,100:FFE629-->
-<p align="center"> 
-<img src="https://media.tenor.com/F9ogau8JCBQAAAAi/mita-miside-oshinokodance-oshinokodance.gif" width="300" height="300" />
-</p>
+
 
 
 <p align="center">
@@ -18,6 +16,10 @@
   
 
 ---
+
+<p align="center"> 
+<img src="https://media.tenor.com/F9ogau8JCBQAAAAi/mita-miside-oshinokodance-oshinokodance.gif" width="300" height="300" />
+</p>
 
 ### 🪄 About Me
 
