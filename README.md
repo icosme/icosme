@@ -19,9 +19,11 @@
 </p>
 
 <div>
-  <img src="https://media.tenor.com/_goVoRQAOhMAAAAi/miside-mila.gif" width= "60" height="60" />
-  <font> About me </font>
+  <font> <B> About me </B> </font>
+  <img src="https://media.tenor.com/_goVoRQAOhMAAAAi/miside-mila.gif" width= "50" height="50" />
 </div> 
+
+<br>
 <br>
 
 ```yaml
