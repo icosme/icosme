@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=99508a&text=Hi%20there,%20I'm%20Ilona%20🌸&reversal=false&fontColor=ffd4f9&animation=fadeIn&textBg=false&strokeWidth=2&stroke=c456ae"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:FB3FEB,100:FFE629&text=Hi%20there,%20I'm%20Ilona%20🌸&reversal=false&fontColor=ffd4f9&animation=fadeIn&textBg=false&fontSize=60&strokeWidth=2&stroke=c456ae"/>
 </p>
 <h3 align="center"> Check my repositories to access my projects ↑ </h3>
 
