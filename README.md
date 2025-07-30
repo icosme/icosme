@@ -3,14 +3,21 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:FB3FEB,100:000000&text=Hi%20there,%20I'm%20Ilona%20🌸&reversal=false&fontColor=FFFFFF&animation=fadeIn&textBg=false&fontSize=55&strokeWidth=1&stroke=c456ae&fontAlignY=50&fontAlign=50&descAlign=50&descAlignY=74"/>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://media.tenor.com/F9ogau8JCBQAAAAi/mita-miside-oshinokodance-oshinokodance.gif" width="150" height="150" style="margin-right: 20px;" />
-  <p>
-    CS Student | Future Biomedical Engineer | Dreaming of traveling<br>
+</p>
+<!-- 0:FB3FEB,100:FFE629-->
+<p align="center"> 
+<img src="https://media.tenor.com/F9ogau8JCBQAAAAi/mita-miside-oshinokodance-oshinokodance.gif" width="300" height="300" />
+</p>
+
+
+<h3 align="center"> Check my repositories to access my projects ↑ </h3>
+
+
+<p align="center">
+  CS Student | Future Biomedical Engineer | Dreaming of traveling
     Daily biker • Curious about new things • Always learning
   </p>
-</div>
-
+  
 
 ---
 
