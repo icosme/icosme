@@ -23,7 +23,7 @@
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Skills
 
 ```text
 Languages:   Python  · SQL  · Java  · IJVM 
