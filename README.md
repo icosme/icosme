@@ -19,8 +19,8 @@
 </p>
 
 <div>
-  <font> <B> About me </B> </font>
-  <img src="https://media.tenor.com/_goVoRQAOhMAAAAi/miside-mila.gif" width= "50" height="50" />
+  <font> <B> About me  &ZeroWidthSpace; </B> </font>
+  <img src="https://media.tenor.com/CEaUTSWTeYkAAAAi/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E7%BE%8E%E5%B0%91%E5%A5%B3%E3%81%AD%E3%82%80-%E3%81%AD%E3%82%80%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B.gif" width= "50" height="50" />
 </div> 
 
 <br>
