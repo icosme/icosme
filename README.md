@@ -21,7 +21,7 @@
 <img src="https://media.tenor.com/F9ogau8JCBQAAAAi/mita-miside-oshinokodance-oshinokodance.gif" width="300" height="300" />
 </p>
 
-### 🪄 About Me
+<h1> 🪄 About Me </h1>
 
 -  Currently studying **Computer Science (BUT 2)**
 -  Soon heading to **Beijing Institute of Technology (2025)** for an exchange!
