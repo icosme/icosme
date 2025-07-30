@@ -10,9 +10,6 @@
 </p>
 
 
-<h3 align="center"> Check my repositories to access my projects ↑ </h3>
-
-
 <p align="center">
   CS Student | Future Biomedical Engineer | Dreaming of traveling <br>
   <br>
