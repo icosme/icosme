@@ -27,5 +27,5 @@
 
 ```text
 Languages:   Python  · SQL  · Java  · IJVM 
-Tools:       Git & GitHub  · Linux  · VSCode  · 
+Tools:       Git & GitHub  · Linux  · VSCode
 Currently:   Learning Japanese & getting into biomedical systems basics
