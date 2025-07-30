@@ -42,6 +42,7 @@ interested in:
   {
     "AI";
     "robotics";
+    "learning Japanese & getting into biomedical systems basics";
     "medical systems";
     "life in japan";
     "paint with acrylic and oil painting";
@@ -51,12 +52,13 @@ goal:  live and work in as a biomedical engineer while embracing my artist side
 ```
 
 <div> 
-<h1> Tech Skills </h1> 
   
+<h1> Tech Skills </h1> 
+
+```text
+Python  · SQL  · Java  · IJVM 
+Git & GitHub  · Linux  · VSCode
+```
 </div>
 
 
-```text
-Languages:   Python  · SQL  · Java  · IJVM 
-Tools:       Git & GitHub  · Linux  · VSCode
-Currently:   Learning Japanese & getting into biomedical systems basics
