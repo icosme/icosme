@@ -6,27 +6,30 @@
 </p>
 <!-- 0:FB3FEB,100:FFE629-->
 
+<p align="center"> 
+<img src="https://media.tenor.com/F9ogau8JCBQAAAAi/mita-miside-oshinokodance-oshinokodance.gif" width="280" height="200" />
+</p>
+
+
 
 
 <p align="center">
-  CS Student&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;𐙚 ‧₊˚ ⋅&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;Future Biomedical Engineer&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;𐙚 ‧₊˚ ⋅&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;Dreaming of traveling 
+  <B>CS</B> Student&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;  &ThickSpace; 𐙚 ‧₊˚ ⋅&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;  &ThickSpace; Future <B>Biomedical</B> Engineer&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;  &ThickSpace; 𐙚 ‧₊˚ ⋅&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ThickSpace; Dreaming of <B>traveling</B> 
   </p>
-  
+
+  <br> 
+
 ---
 
-<p align="center"> 
-<img src="https://media.tenor.com/F9ogau8JCBQAAAAi/mita-miside-oshinokodance-oshinokodance.gif" width="250" height="250" />
-</p>
-
 <div>
-  <font> <B> About me  &ZeroWidthSpace; </B> </font>
+  <font> <B> ૮ ˶ᵔ ᵕ ᵔ˶ ა  &ThickSpace; About me &ThickSpace;</B> </font>
   <img src="https://media.tenor.com/CEaUTSWTeYkAAAAi/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E7%BE%8E%E5%B0%91%E5%A5%B3%E3%81%AD%E3%82%80-%E3%81%AD%E3%82%80%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B.gif" width= "50" height="50" />
 </div> 
 
 <br>
 <br>
 
-```yaml
+```swift
 name :  ilona
 age :  19
 school :  IUT Orléans
@@ -47,11 +50,11 @@ interested in:
 goal:  live and work in as a biomedical engineer while embracing my artist side 
 ```
 
+<div> 
+<h1> Tech Skills </h1> 
+  
+</div>
 
-
-
-
-### 💻 Tech Skills
 
 ```text
 Languages:   Python  · SQL  · Java  · IJVM 
