@@ -15,6 +15,7 @@
 
 <p align="center">
   CS Student | Future Biomedical Engineer | Dreaming of traveling <br>
+  <br>
     Daily biker • Curious about new things • Always learning
   </p>
   
