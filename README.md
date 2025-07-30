@@ -15,7 +15,7 @@
 ---
 
 <p align="center"> 
-<img src="https://media.tenor.com/F9ogau8JCBQAAAAi/mita-miside-oshinokodance-oshinokodance.gif" width="300" height="300" />
+<img src="https://media.tenor.com/F9ogau8JCBQAAAAi/mita-miside-oshinokodance-oshinokodance.gif" width="250" height="250" />
 </p>
 
 <div>
