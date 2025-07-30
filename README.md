@@ -4,6 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:FB3FEB,100:FFE629&text=Hi%20there,%20I'm%20Ilona%20🌸&reversal=false&fontColor=FFFFFF&animation=fadeIn&textBg=false&fontSize=55&strokeWidth=1&stroke=c456ae&fontAlignY=50&fontAlign=50&descAlign=50&descAlignY=74"/>
 </p>
 
+<p> 
+<img src="https://media.tenor.com/F9ogau8JCBQAAAAi/mita-miside-oshinokodance-oshinokodance.gif"/>
+
+</p>
+
+
 <h3 align="center"> Check my repositories to access my projects ↑ </h3>
 
 
