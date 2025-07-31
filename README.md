@@ -64,7 +64,8 @@ goal:  live and work in as a biomedical engineer while embracing my artist side
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/> &ThickSpace; &ThickSpace; &ThickSpace;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="40" height="40" /> &ThickSpace; &ThickSpace; &ThickSpace;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="40" height="40" /> &ThickSpace; &ThickSpace; &ThickSpace;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" height="40" /> &ThickSpace; &ThickSpace; &ThickSpace;
+    <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="40" height="40" /> &ThickSpace; &ThickSpace; &ThickSpace;
+    
 </div> 
 
 
