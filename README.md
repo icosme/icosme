@@ -46,8 +46,9 @@ interested in:
 
 goal:  live and work in as a biomedical engineer while embracing my artist side 
 ```
+&ThickSpace;
 
-  <h3> Tech Skills 👾</h3>
+  <h3> ☕︎ &ThickSpace; Tech Skills  &ThickSpace;👾</h3>
 
   ---
   
