@@ -68,4 +68,4 @@ goal:  live and work in as a biomedical engineer while embracing my artist side
 </div> 
 
 
-
+![Snake animation](https://github.com/fushizaki/fushizaki/blob/output/github-contribution-grid-snake.svg)
