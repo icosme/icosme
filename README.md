@@ -7,26 +7,22 @@
 <!-- 0:FB3FEB,100:FFE629-->
 
 <p align="center"> 
-<img src="https://media.tenor.com/F9ogau8JCBQAAAAi/mita-miside-oshinokodance-oshinokodance.gif" width="280" height="200" />
+<img src="https://media.tenor.com/F9ogau8JCBQAAAAi/mita-miside-oshinokodance-oshinokodance.gif" width="250" height="250" />
 </p>
-
-
 
 
 <p align="center">
   <B>CS</B> Student&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;  &ThickSpace; 𐙚 ‧₊˚ ⋅&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;  &ThickSpace; Future <B>Biomedical</B> Engineer&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;  &ThickSpace; 𐙚 ‧₊˚ ⋅&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ThickSpace; Dreaming of <B>traveling</B> 
   </p>
 
-  <br> 
 
 ---
 
 <div>
-  <font> <B> ૮ ˶ᵔ ᵕ ᵔ˶ ა  &ThickSpace; About me &ThickSpace;</B> </font>
-  <img src="https://media.tenor.com/CEaUTSWTeYkAAAAi/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E7%BE%8E%E5%B0%91%E5%A5%B3%E3%81%AD%E3%82%80-%E3%81%AD%E3%82%80%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B.gif" width= "50" height="50" />
+  <h3> ૮ ˶ᵔ ᵕ ᵔ˶ ა  &ThickSpace; About me &ThickSpace; 
+  <img src="https://media.tenor.com/CEaUTSWTeYkAAAAi/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E7%BE%8E%E5%B0%91%E5%A5%B3%E3%81%AD%E3%82%80-%E3%81%AD%E3%82%80%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B.gif" width= "50" height="50" /> </h3>
 </div> 
 
-<br>
 <br>
 
 ```swift
@@ -51,14 +47,25 @@ interested in:
 goal:  live and work in as a biomedical engineer while embracing my artist side 
 ```
 
-<div> 
-  
-<h1> Tech Skills </h1> 
+  <h3> Tech Skills 👾</h3>
 
-```text
-Python  · SQL  · Java  · IJVM 
-Git & GitHub  · Linux  · VSCode
-```
-</div>
+  ---
+  
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> &ThickSpace; &ThickSpace; &ThickSpace;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/> &ThickSpace; &ThickSpace; &ThickSpace;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /> &ThickSpace; &ThickSpace; &ThickSpace;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" width="40" height="40" /> &ThickSpace; &ThickSpace; &ThickSpace;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40"/> &ThickSpace; &ThickSpace; &ThickSpace;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" /> &ThickSpace; &ThickSpace; &ThickSpace;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="40" height="40" /> &ThickSpace; &ThickSpace; &ThickSpace;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> &ThickSpace; &ThickSpace; &ThickSpace;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/> &ThickSpace; &ThickSpace; &ThickSpace;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="40" height="40" /> &ThickSpace; &ThickSpace; &ThickSpace;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="40" height="40" /> &ThickSpace; &ThickSpace; &ThickSpace;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" height="40" /> &ThickSpace; &ThickSpace; &ThickSpace;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> &ThickSpace; &ThickSpace; &ThickSpace;
+</div> 
+
 
 
